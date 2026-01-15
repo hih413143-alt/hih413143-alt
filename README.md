@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **AI**
 
 - 🤝 I’m looking for help with **The programming side of AI**
+- Also it takes me a while to post new code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
