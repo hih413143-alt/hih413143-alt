@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hih413143-alt&label=Profile%20views&color=0e75b6&style=flat" alt="hih413143-alt" /> </p>
 
-- 🔭 I’m currently working on **AI**
+- 🔭 I’m currently working on **LLM And contributing to the GO Programming Language!**
 
 - 🌱 I’m currently learning **pytorch**
 
